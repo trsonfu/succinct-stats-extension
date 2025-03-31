@@ -1,6 +1,6 @@
 # Privacy Policy for Succinct Stats Tracker
 
-Last updated: [Current Date]
+Last updated: 04/01/2025
 
 ## Overview
 Succinct Stats Tracker ("we", "our", or "the extension") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our Chrome extension.
