@@ -37,7 +37,7 @@ You can:
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 ## Contact Us
-If you have any questions about this Privacy Policy, please contact us at [Your Contact Information].
+If you have any questions about this Privacy Policy, please contact us at admin@tempestcrypto.net
 
 ## Consent
 By using our extension, you consent to our Privacy Policy and agree to its terms.
