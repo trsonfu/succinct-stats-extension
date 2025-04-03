@@ -1,43 +1,48 @@
 # Privacy Policy for Succinct Stats Tracker
 
-Last updated: 04/01/2025
+## Data Collection and Usage
 
-## Overview
-Succinct Stats Tracker ("we", "our", or "the extension") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our Chrome extension.
+This Chrome extension ("Succinct Stats Tracker") collects and processes the following data:
 
-## Information Collection
-The extension collects and processes the following data:
+1. **Twitter/X Username**: We collect the Twitter/X username from the profile page you are viewing to fetch and display stats.
 
-1. **Twitter/X Usernames**: We collect usernames from Twitter/X profile pages you visit to fetch relevant Succinct Network statistics.
-2. **Public Succinct Network Data**: We retrieve public statistics (Stars, Proofs, Cycles, etc.) from the Succinct Network API.
-3. **Temporary Storage**: We temporarily cache this data to improve performance and reduce API calls.
+2. **Stats Data**: We fetch and display stats data from the Succinct Stats API for the viewed Twitter/X profile.
 
-## Data Usage
-The collected data is used solely for:
-- Displaying Succinct Network statistics on Twitter/X profiles
-- Improving extension performance through caching
-- No personal data is collected, stored, or transmitted beyond these purposes
+## How We Use Your Data
+
+- The collected username is used solely to fetch stats data from the Succinct Stats API.
+- The stats data is displayed within the extension interface.
+- We do not store any data locally or transmit it to any third-party services.
+- We do not track or collect any personal information beyond the Twitter/X username.
 
 ## Data Storage
-- All data is stored locally in your browser
-- Cache data is temporary and automatically cleared
-- No data is sent to external servers except for API calls to Succinct Network
+
+- All data processing happens in real-time and is not stored permanently.
+- No data is saved to your device or any external servers.
+
+## Permissions
+
+The extension requires the following permissions:
+
+- `storage`: To store user preferences locally.
+
+## Host Permissions
+
+The extension requires access to the following domains:
+
+- `https://www.succinct-stats.xyz/*`: To fetch stats data from the Succinct Stats API
+- `https://twitter.com/*`: To access Twitter profile pages
+- `https://x.com/*`: To access X (Twitter) profile pages
 
 ## Third-Party Services
-We only communicate with:
-- Twitter/X (to identify profile pages)
-- Succinct Network API (to fetch public statistics)
 
-## Your Rights
-You can:
-- Clear cached data through your browser settings
-- Uninstall the extension at any time to remove all stored data
+- We use the Succinct Stats API (succinct-stats.xyz) to fetch stats data.
+- No other third-party services are used.
 
-## Changes to This Policy
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+## Updates to This Policy
 
-## Contact Us
-If you have any questions about this Privacy Policy, please contact us at admin@tempestcrypto.net
+We may update this privacy policy from time to time. Any changes will be posted on this page.
 
-## Consent
-By using our extension, you consent to our Privacy Policy and agree to its terms.
+## Contact
+
+If you have any questions about this privacy policy, please contact us at admin@tempestcrypto.net
