@@ -6,11 +6,17 @@ This Chrome extension ("Succinct Stats Tracker") collects and processes the foll
 
 1. **Twitter/X Username**: We collect the Twitter/X username from the profile page you are viewing to fetch and display stats.
 
-2. **Stats Data**: We fetch and display stats data from the Succinct Stats API for the viewed Twitter/X profile.
+2. **Stats Data**: We fetch and display stats data from our self-hosted API for the viewed Twitter/X profile, including:
+   - Rank
+   - Username
+   - Referred By
+   - Number of Proofs
+   - Number of Cycles
+   - Number of Stars
 
 ## How We Use Your Data
 
-- The collected username is used solely to fetch stats data from the Succinct Stats API.
+- The collected username is used solely to fetch stats data from our self-hosted API.
 - The stats data is displayed within the extension interface.
 - We do not store any data locally or transmit it to any third-party services.
 - We do not track or collect any personal information beyond the Twitter/X username.
@@ -30,13 +36,13 @@ The extension requires the following permissions:
 
 The extension requires access to the following domains:
 
-- `https://www.succinct-stats.xyz/*`: To fetch stats data from the Succinct Stats API
+- `https://succinct-hub.xyz/*`: To fetch stats data from our self-hosted API
 - `https://twitter.com/*`: To access Twitter profile pages
 - `https://x.com/*`: To access X (Twitter) profile pages
 
 ## Third-Party Services
 
-- We use the Succinct Stats API (succinct-stats.xyz) to fetch stats data.
+- We use our own self-hosted API to fetch stats data.
 - No other third-party services are used.
 
 ## Updates to This Policy
